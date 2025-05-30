@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eca2c0;
+  color: #333;
+  text-align: center;
+  padding: 40px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.foto {
+  width: 300px;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+audio {
+  margin-top: 20px;
+}
+
+.contador h2 {
+  margin-top: 30px;
+  font-size: 24px;
+}
+
+#tempo {
+  font-size: 20px;
+  color: #e60073;
+  margin-top: 10px;
+}
